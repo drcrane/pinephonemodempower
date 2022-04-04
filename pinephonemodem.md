@@ -1,7 +1,6 @@
-<title>Modem on PinePhone</title>
 # Modem on PinePhone
 
-Interacting with the modem on the PinePhone using a virtual serial port
+Interacting with the modem on the PinePhone using a real serial port (`/dev/ttyS2`)
 via `picocom`.
 
 ## Using SXMO
